@@ -37,5 +37,5 @@ app.use('/user',Userroute)
 app.use('/post',Postroute)
 
 app.listen(2000,()=>{
-    console.log("server running on port 9000")
+    console.log("server running on port 2000")
 })
